@@ -24,21 +24,37 @@ A comprehensive deep learning pipeline to detect deepfake videos using both vide
 
 Deepfake-Detector-Updated/
 ├── model/
+
 │   ├── model.pth
+
 │   └── text_model/
+
 │       ├── config.json
+
 │       └── model.safetensors
+
 ├── videos/
+
 ├── preprocessed_videos/
+
 ├── tokenizer/
+
 ├── .gitignore
+
 ├── metadata.json
+
 ├── gen_metadata.py
+
 ├── generate_metadata.py
+
 ├── model.py
+
 ├── predict.py
+
 ├── train.py
+
 ├── video_processing.py
+
 └── README.md
 
 ## ⚙️ Setup Instructions
